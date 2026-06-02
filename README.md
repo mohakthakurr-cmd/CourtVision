@@ -71,46 +71,34 @@ Designed using Object-Oriented Programming principles, the project demonstrates 
 - File handling implementation
 
 ---
-# 🏀 CourtVision
 
-[ASCII Logo]
+## 📸 Screenshots
 
-## 📌 Overview
-
-CourtVision AI is a C++ basketball analytics and scouting platform...
-
-## 🚀 Features
-
-- 🏀 Player Analytics
-- 🏆 MVP Prediction Engine
-- 📈 League Statistics Dashboard
-- 🔍 Player Search
-- 📋 Scouting Reports
-- 💾 File Persistence
-
-# 📸 Screenshots
-
-## Main Menu
+### 🏠 Main Menu
 
 ![Main Menu](screenshots/main-menu.png)
 
-## MVP Prediction
+### 🏆 MVP Prediction Engine
 
 ![MVP Prediction](screenshots/mvp-prediction.png)
 
-## Scouting Report
+### 📋 Scouting Report
 
 ![Scouting Report](screenshots/scouting-report.png)
 
-## League Statistics
+### 📊 League Statistics Dashboard
 
 ![League Statistics](screenshots/league-statistics.png)
+
+---
 
 ## ⚙️ Installation
 
 ```bash
 g++ main.cpp Player.cpp Analytics.cpp DataManager.cpp -o courtvision
 ./courtvision
+```
+> Tested on macOS using g++ compiler.
 
 ## 🛠️ Technologies Used
 
@@ -128,7 +116,7 @@ g++ main.cpp Player.cpp Analytics.cpp DataManager.cpp -o courtvision
 ## 📂 Project Structure
 
 ```text
-CourtVision-AI
+CourtVision
 │
 ├── main.cpp
 ├── Player.h
