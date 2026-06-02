@@ -1,4 +1,3 @@
-# 🏀 CourtVision AI
 
 # 🏀 CourtVision
 
